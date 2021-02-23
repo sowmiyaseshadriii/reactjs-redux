@@ -1,0 +1,109 @@
+{
+    "users":[
+        {
+          "id": 1,
+          "fname": "Ram",
+          "lname": "Gopal",
+          "age": "30",
+          "email": "test1@gmail.com"
+        },
+        {
+          "id": 2,
+          "fname": "Peter",
+          "lname": "John",
+          "age": "40",
+          "email": "test123@gmail.com"
+        },
+        {
+          "id": 3,
+          "fname": "Alex",
+          "lname": "Johnson",
+          "age": "33",
+          "email": "xyz@gmail.com"
+        },
+        {
+          "id": 4,
+          "fname": "Varma",
+          "lname": "Singh",
+          "age": "45",
+          "email": "vs20@gmail.com"
+        },
+        {
+          "id": 5,
+          "fname": "Adidth",
+          "lname": "Kennedy",
+          "age": "35",
+          "email": "ak123@gmail.com"
+        },
+        {
+          "id": 6,
+          "fname": "Lena",
+          "lname": "Sathish",
+          "age": "38",
+          "email": "ls123@gmail.com"
+        },
+        {
+          "id": 7,
+          "fname": "Sana",
+          "lname": "Sathish",
+          "age": "30",
+          "email": "ss234@gmail.com"
+        },
+        {
+          "id": 8,
+          "fname": "Alex",
+          "lname": "Tesla",
+          "age": "20",
+          "email": "atelsa@gmail.com"
+        },
+        {
+          "id": 9,
+          "fname": "Ken",
+          "lname": "Thomas",
+          "age": "45",
+          "email": "kt123@gmail.com"
+        },
+        {
+          "id": 10,
+          "fname": "Tharun",
+          "lname": "Kennedy",
+          "age": "24",
+          "email": "thks@gmail.com"
+        },
+        {
+          "id": 11,
+          "fname": "Arthi",
+          "lname": "Gopal",
+          "age": "30",
+          "email": "ag123@gmail.com"
+        },
+        {
+          "id": 12,
+          "fname": "Peter",
+          "lname": "John",
+          "age": "40",
+          "email": "test123@gmail.com"
+        },
+        {
+          "id": 13,
+          "fname": "Alex",
+          "lname": "Peter",
+          "age": "33",
+          "email": "xyz1b@gmail.com"
+        },
+        {
+          "id": 14,
+          "fname": "Amit",
+          "lname": "Singh",
+          "age": "45",
+          "email": "as20@gmail.com"
+        },
+        {
+          "id": 15,
+          "fname": "Tarun",
+          "lname": "Babu",
+          "age": "35",
+          "email": "tb123@gmail.com"
+        }
+      ]
+}
